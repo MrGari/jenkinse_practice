@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37b380e8-0bcf-4a98-94a4-5b03c394ae16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test1.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +38,11 @@
   <component name="ProjectId" id="1U7PrXcGY8PXU7UHKsQdwYhG2Q2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -54,10 +61,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="test1Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ololo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="test1Test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -67,7 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.test1" />
+        <item itemvalue="TestNG.test1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +94,8 @@
       <workItem from="1576999161997" duration="595000" />
       <workItem from="1577126371007" duration="2836000" />
       <workItem from="1577129249191" duration="2176000" />
-      <workItem from="1578502462938" duration="2174000" />
+      <workItem from="1578502462938" duration="2907000" />
+      <workItem from="1578506870437" duration="452000" />
     </task>
     <task id="LOCAL-00001" summary="some changes">
       <created>1578505068098</created>
@@ -96,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578505068098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some changes">
+      <created>1578505962061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578505962061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +122,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
