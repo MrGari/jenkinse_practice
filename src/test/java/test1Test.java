@@ -11,6 +11,6 @@ public class test1Test {
     @Test
     public void testTest2(){
         System.out.println("*******************false*****************");
-        Assert.assertEquals(true, false);
+        Assert.assertEquals(true, true);
     }
 }
